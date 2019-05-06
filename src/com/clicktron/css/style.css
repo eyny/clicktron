@@ -1,0 +1,20 @@
+.main-form {
+    -fx-background-color: #E0E0E0;
+    /* -fx-font-family: 'Ubuntu'; */
+}
+
+.tab-header-background {
+    -fx-background-color: #E0E0E0;
+    -fx-border-color: #BBBBBB;
+    -fx-border-width: 0 0 1 0;
+}
+                  
+.tab-page {
+    -fx-background-color: #F4F4F4;  
+    -fx-border-color: #BBBBBB;        
+    -fx-border-width: 0 1 1 1;
+}
+
+.spinner .text-field {
+    -fx-alignment: top-right;
+}
