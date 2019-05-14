@@ -1,5 +1,5 @@
 # Clicktron
-An auto clicker and key presser application written in Java. Just specify the repeat rate, which button to press, how many times to press and other settings. The application will press the same button over and over for you without getting bored.
+An auto clicker and key presser application written in Java. Just specify the repeat rate, which button to press, how many times to press and other settings. The application will press the same button over and over for you without getting bored. This project can be used by software developers to comprehend how to use JavaFX application platform and MVP design pattern.
 
 ## Distinguishing Features:
 * The application is completly free, without any time or feature limitation.
