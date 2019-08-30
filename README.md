@@ -12,3 +12,6 @@ An auto clicker and key presser application written in Java. Just specify the re
 * Shortcut keys do not function if the application window does not have focus. (Unfortunately, the problem is difficult to solve without using any third-party library like [JNativeHook](https://github.com/kwhat/jnativehook))
 * Only keyboard keys available in US keyboard layout can be selected for pressing.
 * On Ubuntu, although the application starts; it does not function as expected.
+
+## Requirements
+[Java 8](https://www.java.com/download/) or newer has to be installed on the computer. If you are using Java 11 or newer, you need to download JavaFX libraries separately, since JavaFX libraries are not shipped with JDKs anymore.
